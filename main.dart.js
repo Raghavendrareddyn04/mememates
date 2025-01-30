@@ -9205,13 +9205,12 @@ Yn:function Yn(a){this.a=a},
 aKb(){return new A.yI(new A.a6w(),A.I(t.K,t.Qu))},
 agl:function agl(a,b){this.a=a
 this.b=b},
-zs:function zs(a,b,c,d,e,f){var _=this
+zs:function zs(a,b,c,d,e){var _=this
 _.f=a
 _.r=b
 _.cx=c
 _.db=d
-_.R8=e
-_.a=f},
+_.a=e},
 a6w:function a6w(){},
 a8Y:function a8Y(){},
 DU:function DU(){this.d=$
@@ -82438,7 +82437,7 @@ this.aF()},
 G(a){return this.a.c}}
 A.KX.prototype={
 G(a){var s=null,r=A.uv(s,s,new A.rM(A.hs(s,s,B.j9,s,s,s,s,s,s,B.i,s,s,s,s,s,s,s,s,s)),new A.tw(A.aA_(s,s,s,s,s,s,s,s,s,B.j9,s,s,s,s,s,B.BM,s,s,s,s)),B.ac,B.Eg,B.ZA,s)
-return new A.zs(A.as(["/",new A.a9L(),"/login",new A.a9M(),"/signup",new A.a9N(),"/verification",new A.a9O(),"/profile-setup",new A.a9P(),"/home",new A.a9Q(),"/onboarding",new A.a9R(),"/premium",new A.a9S(),"/notifications",new A.a9T(),"/settings",new A.a9U()],t.N,t.Ab),"/onboarding","Meme Mates",r,!1,s)}}
+return new A.zs(A.as(["/",new A.a9L(),"/login",new A.a9M(),"/signup",new A.a9N(),"/verification",new A.a9O(),"/profile-setup",new A.a9P(),"/home",new A.a9Q(),"/onboarding",new A.a9R(),"/premium",new A.a9S(),"/notifications",new A.a9T(),"/settings",new A.a9U()],t.N,t.Ab),"/","Meme Mates",r,s)}}
 A.a9L.prototype={
 $1(a){return B.Vw},
 $S:492}
